@@ -1,0 +1,19 @@
+{
+  "name": "practica_express_nodejs",
+  "version": "1.0.0",
+  "description": "Practica de Servicios Web con Express y NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Alejandro Alma",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
